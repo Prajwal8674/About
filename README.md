@@ -1,5 +1,3 @@
-HELLO THERE !!
+HELLO WORLD ! THIS IS PRAJWAL 👋🏼
 ***
-![](https://komarev.com/ghpvc/?username=prajwal8674&color=blue)
-___
 
