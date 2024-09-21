@@ -40,13 +40,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
-
-## Random Motivation : 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+## Contribution Graph : 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal8674&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-## Random Motivation
+## Random Motivation : 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
