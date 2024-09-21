@@ -41,14 +41,9 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
 
-### Random Motivation : 
+## Random Motivation : 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal8674&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-
-
-
-
 ---
 
