@@ -47,3 +47,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prajwal8674&icon=5&color=1)](https://visitcount.itsvg.in)
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=prawjal8674&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
