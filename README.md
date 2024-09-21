@@ -1,8 +1,10 @@
 # Hello World ! 
 #### A Java Developer passionate about transforming ideas into robust, scalable applications. Armed with expertise in Java, C++, MySQL, and web technologies, I love creating solutions that merge innovation with functionality.
 [![](https://visitcount.itsvg.in/api?id=Prajwal8674&icon=5&color=1)](https://visitcount.itsvg.in)
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Prajwal8674&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/prajwalpatil31) 
@@ -40,12 +42,11 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
 
-
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal8674&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prajwal8674&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
