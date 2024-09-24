@@ -1,7 +1,7 @@
 # Hello World ! 
 #### A Java Developer passionate about transforming ideas into robust, scalable applications. Armed with expertise in Java, C++, MySQL, and web technologies, I love creating solutions that merge innovation with functionality.
 <!--[![](https://visitcount.itsvg.in/api?id=chandrakant22&icon=5&color=1)](https://visitcount.itsvg.in)-->
- <img src="https://komarev.com/ghpvc/?username=chandrakant22&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="prawjal8674" /> 
+ <img src="https://komarev.com/ghpvc/?username=antonkomarev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="prawjal8674" /> 
 
 ## Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/prajwalpatil31) 
