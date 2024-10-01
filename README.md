@@ -1,6 +1,5 @@
 # Hello World ! 
 #### A Java Developer passionate about transforming ideas into robust, scalable applications. Armed with expertise in Java, C++, MySQL, and web technologies, I love creating solutions that merge innovation with functionality.
-<!--[![](https://visitcount.itsvg.in/api?id=chandrakant22&icon=5&color=1)](https://visitcount.itsvg.in)-->
  <img src="https://komarev.com/ghpvc/?username=Prajwal8674&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="prawjal8674" /> 
 
 ## Socials:
@@ -28,8 +27,8 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![ApacheMaven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Selenium](https://img.shields.io/badge/Selenium-%2300C4C.svg?style=for-the-badge&logo=Selenium&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%233366ff.svg?style=for-the-badge&logo=Jira&logoColor=white)
+<!--![Selenium](https://img.shields.io/badge/Selenium-%2300C4C.svg?style=for-the-badge&logo=Selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%233366ff.svg?style=for-the-badge&logo=Jira&logoColor=white)-->
 
 
 ## Database : 
